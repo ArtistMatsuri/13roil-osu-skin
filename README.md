@@ -7,7 +7,7 @@
 ![Default+Selyu Colour+Shige Cursor](https://cdn.discordapp.com/attachments/993150789243637790/1021300569681428481/screenshot084.png)
 
 # Older-Skin
-
+# These are the skin used before 2021-08-26
 [Aristia(Edit)](https://mega.nz/#!kwVVga6L!_5gGwrWnW-VFZO70ZL59c8lgCw2nuX8qwB7rt3rkyY8)
 
 [owoTuna 1.4 (CK)](https://drive.google.com/file/d/1-pnRheYVMhIQEJd_NQNdBLSeosptgsYw/view?usp=sharing)
