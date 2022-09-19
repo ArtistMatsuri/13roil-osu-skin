@@ -18,3 +18,9 @@
 
 [owoTuna 1.4 (VV)](https://drive.google.com/file/d/1Qfu_P-iYmaR46J7Taffg53OjqRUISKxt/view?usp=sharing)
 ![Screenshot](https://skins.osuck.net/uploads/posts/2019-07/1564486922_screenshot6204.jpg)
+
+[Rafis HDDT](https://circle-people.com/wp-content/Skins/Rafis/Rafis%202018-03-26%20HDDT.osk)
+![Screenshot](https://osuskins.net/screenshots/ekynLzX.jpg)
+
+[elohere](http://puu.sh/pDnzg/2d2dacfc85.osk)
+![Screenshot](https://user-images.githubusercontent.com/113880424/190960756-73a133f0-ed02-446d-8c55-d829dcc76c16.png)
