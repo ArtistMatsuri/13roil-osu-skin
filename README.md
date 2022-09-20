@@ -8,7 +8,8 @@
 
 
 # Old skins (used before 2021-08-26)
-## [Aristia(Edit)](https://mega.nz/#!kwVVga6L!_5gGwrWnW-VFZO70ZL59c8lgCw2nuX8qwB7rt3rkyY8) | Screenshots soon
+## [Aristia(Edit)](https://mega.nz/#!kwVVga6L!_5gGwrWnW-VFZO70ZL59c8lgCw2nuX8qwB7rt3rkyY8)
+![Screenshot](https://osu.ppy.sh/ss/16889072/ffda)
 
 ## [owoTuna 1.4 (CK)](https://drive.google.com/file/d/1-pnRheYVMhIQEJd_NQNdBLSeosptgsYw/view?usp=sharing)
 ![Screenshot](https://skins.osuck.net/uploads/posts/2019-07/1564486931_screenshot6193.jpg)
