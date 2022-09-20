@@ -6,10 +6,24 @@
 ## [Default+Selyu Colour+Shige Cursor] (COMING SOON)
 ![Default+Selyu Colour+Shige Cursor](https://cdn.discordapp.com/attachments/993150789243637790/1021300569681428481/screenshot084.png)
 
+## [13roil+Aristia] (COMING SOON)
+![Screenhsot](https://osu.ppy.sh/ss/18138208/cd5e)
+
+## [13roil+DT] (COMING SOON)
+![Screenhsot](https://osu.ppy.sh/ss/18138193/5ade)
+
+## [13roil+MonkoEdit] (COMING SOON)
+![Screenhsot](https://osu.ppy.sh/ss/18138195/9157)
+
+## [13roil+RyuK] (COMING SOON)
+![Screenhsot](https://osu.ppy.sh/ss/18138202/66a2)
+
+## [Mania] (COMING SOON)
+![Screenhsot](https://osu.ppy.sh/ss/18138209/a576)
 
 # Old skins (used before 2021-08-26)
 ## [Aristia(Edit)](https://mega.nz/#!kwVVga6L!_5gGwrWnW-VFZO70ZL59c8lgCw2nuX8qwB7rt3rkyY8)
-![Screenshot](https://osu.ppy.sh/ss/16889072/ffda)
+![Screenshot](https://osu.ppy.sh/ss/18138188/6580)
 
 ## [owoTuna 1.4 (CK)](https://drive.google.com/file/d/1-pnRheYVMhIQEJd_NQNdBLSeosptgsYw/view?usp=sharing)
 ![Screenshot](https://skins.osuck.net/uploads/posts/2019-07/1564486931_screenshot6193.jpg)
@@ -25,3 +39,6 @@
 
 ## [elohere](http://puu.sh/pDnzg/2d2dacfc85.osk)
 ![Screenshot](https://user-images.githubusercontent.com/113880424/190960756-73a133f0-ed02-446d-8c55-d829dcc76c16.png)
+
+## [Redd Glass](https://osu.ppy.sh/community/forums/topics/211396?n=1)
+![Screenshot](https://osu.ppy.sh/ss/18138191/cdcd)
