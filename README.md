@@ -3,7 +3,7 @@
 ## [Default](https://drive.google.com/file/d/1dPxX7Zp0bjyNJ69PSWNmnqn45l5wvs8a/view)
 ![Default](https://cdn.discordapp.com/attachments/1018833467569619016/1021299612285415424/8.png)
 
-## [Default+Selyu Colour+Shige Cursor]()
+## [Default+Selyu Colour+Shige Cursor](https://drive.google.com/file/d/1Ce7-TCU9u4Ux4tKuwCl8tvukxLMVVg4t/view?usp=sharing)
 ![Default+Selyu Colour+Shige Cursor](https://cdn.discordapp.com/attachments/993150789243637790/1021300569681428481/screenshot084.png)
 
 ## [13roil+Aristia] (https://drive.google.com/file/d/1YdyM_x-UBs4CRB4w6DRSes2BkdTPzn6c/view?usp=sharing)
