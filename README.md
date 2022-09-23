@@ -6,19 +6,19 @@
 ## [Default+Selyu Colour+Shige Cursor](https://drive.google.com/file/d/1Ce7-TCU9u4Ux4tKuwCl8tvukxLMVVg4t/view?usp=sharing)
 ![Default+Selyu Colour+Shige Cursor](https://cdn.discordapp.com/attachments/993150789243637790/1021300569681428481/screenshot084.png)
 
-## [13roil+Aristia] (https://drive.google.com/file/d/1YdyM_x-UBs4CRB4w6DRSes2BkdTPzn6c/view?usp=sharing)
+## [13roil+Aristia](https://drive.google.com/file/d/1YdyM_x-UBs4CRB4w6DRSes2BkdTPzn6c/view?usp=sharing)
 ![Screenhsot](https://osu.ppy.sh/ss/18138208/cd5e)
 
-## [13roil+DT] (https://drive.google.com/file/d/1v8VmgyaAEKNxDLVtsMnQSsi4S4SVYQ0I/view?usp=sharing)
+## [13roil+DT](https://drive.google.com/file/d/1v8VmgyaAEKNxDLVtsMnQSsi4S4SVYQ0I/view?usp=sharing)
 ![Screenhsot](https://osu.ppy.sh/ss/18138193/5ade)
 
-## [13roil+MonkoEdit] (https://drive.google.com/file/d/1rFvQvy3h4i1UWPWQ0w84hKgf-zkPkE_v/view?usp=sharing)
+## [13roil+MonkoEdit](https://drive.google.com/file/d/1rFvQvy3h4i1UWPWQ0w84hKgf-zkPkE_v/view?usp=sharing)
 ![Screenhsot](https://osu.ppy.sh/ss/18138195/9157)
 
-## [13roil+RyuK] (https://drive.google.com/file/d/1ZOZabNMa65iQ4e1y2-TnTr4xdwQ6QJg7/view?usp=sharing)
+## [13roil+RyuK](https://drive.google.com/file/d/1ZOZabNMa65iQ4e1y2-TnTr4xdwQ6QJg7/view?usp=sharing)
 ![Screenhsot](https://osu.ppy.sh/ss/18138202/66a2)
 
-## [Mania] (https://drive.google.com/file/d/1_I4OnWa2afh2HFWQx-QarUld0xnweZZO/view?usp=sharing)
+## [Mania](https://drive.google.com/file/d/1_I4OnWa2afh2HFWQx-QarUld0xnweZZO/view?usp=sharing)
 ![Screenhsot](https://osu.ppy.sh/ss/18138209/a576)
 
 # Old skins (used before 2021-08-26)
